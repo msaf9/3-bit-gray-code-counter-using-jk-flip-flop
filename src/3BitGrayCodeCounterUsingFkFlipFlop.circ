@@ -91,6 +91,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(70,380)" to="(140,380)"/>
     <wire from="(100,210)" to="(100,340)"/>
     <wire from="(780,150)" to="(780,280)"/>
+    <wire from="(140,530)" to="(260,530)"/>
     <wire from="(330,210)" to="(330,290)"/>
     <wire from="(100,340)" to="(140,340)"/>
     <wire from="(200,360)" to="(240,360)"/>
@@ -117,30 +118,38 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(320,310)" to="(330,310)"/>
     <wire from="(370,340)" to="(380,340)"/>
     <wire from="(670,300)" to="(670,360)"/>
-    <wire from="(190,530)" to="(260,530)"/>
     <wire from="(70,250)" to="(140,250)"/>
     <wire from="(260,530)" to="(460,530)"/>
     <wire from="(240,230)" to="(240,290)"/>
-    <comp lib="4" loc="(320,290)" name="J-K Flip-Flop"/>
-    <comp lib="4" loc="(520,290)" name="J-K Flip-Flop"/>
-    <comp lib="4" loc="(750,280)" name="J-K Flip-Flop"/>
-    <comp lib="1" loc="(640,360)" name="AND Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="0" loc="(190,530)" name="Pin"/>
-    <comp lib="1" loc="(200,360)" name="XOR Gate">
-      <a name="inputs" val="2"/>
-    </comp>
     <comp lib="1" loc="(430,360)" name="AND Gate">
       <a name="inputs" val="2"/>
     </comp>
-    <comp lib="1" loc="(430,230)" name="AND Gate">
+    <comp lib="6" loc="(497,264)" name="Text">
+      <a name="text" val="1"/>
+    </comp>
+    <comp lib="1" loc="(640,360)" name="AND Gate">
       <a name="inputs" val="2"/>
     </comp>
+    <comp lib="6" loc="(294,262)" name="Text">
+      <a name="text" val="0"/>
+    </comp>
+    <comp lib="1" loc="(640,230)" name="AND Gate">
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="0" loc="(140,530)" name="Pin"/>
     <comp lib="1" loc="(210,230)" name="XNOR Gate">
       <a name="inputs" val="2"/>
     </comp>
-    <comp lib="1" loc="(640,230)" name="AND Gate">
+    <comp lib="4" loc="(320,290)" name="J-K Flip-Flop"/>
+    <comp lib="1" loc="(430,230)" name="AND Gate">
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="6" loc="(726,253)" name="Text">
+      <a name="text" val="2"/>
+    </comp>
+    <comp lib="4" loc="(520,290)" name="J-K Flip-Flop"/>
+    <comp lib="4" loc="(750,280)" name="J-K Flip-Flop"/>
+    <comp lib="1" loc="(200,360)" name="XOR Gate">
       <a name="inputs" val="2"/>
     </comp>
   </circuit>
