@@ -41,3 +41,4 @@ cd 3BitGrayCodeCounterUsingJkFlipFlop
 ```
 
 ## License
+[MIT License](LICENSE)
