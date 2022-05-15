@@ -47,5 +47,13 @@ public class Table {
 
 	public static void main(String[] args) throws InterruptedException {
 		new Table();
+		start();
+	}
+
+	private static void start() throws InterruptedException {
+		for(int i = 0; i < 8; i++) {
+			System.out.println(i + " " + String.format("%03d", DecimalToGray.toGray(i)).substring(0));
+			Thread.sleep(3000);
+		}
 	}
 }
