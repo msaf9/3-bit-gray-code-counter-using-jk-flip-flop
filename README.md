@@ -1,4 +1,5 @@
 # 3-Bit Gray Code Counter Using JK Flip Flop        
+3-Bit Gray Code Counter with JK Flip Flop.
 
 - [3-Bit Gray Code Counter Using JK Flip Flop](#3-bit-gray-code-counter-using-jk-flip-flop)
   - [Introduction](#introduction)
