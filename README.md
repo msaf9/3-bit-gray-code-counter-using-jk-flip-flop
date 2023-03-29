@@ -1,26 +1,28 @@
-# 3-Bit Gray Code Counter Using JK Flip Flop        
+<h1> 3-Bit Gray Code Counter Using JK Flip Flop </h1>        
 3-Bit Gray Code Counter with JK Flip Flop.
 
-- [3-Bit Gray Code Counter Using JK Flip Flop](#3-bit-gray-code-counter-using-jk-flip-flop)
-  - [Introduction](#introduction)
-    - [Course Information](#course-information)
-    - [Table](#table)
-  - [Technologies](#technologies)
-  - [Project status](#project-status)
-  - [Installation](#installation)
-    - [Get repository](#get-repository)
-  - [License](#license)
+- [Introduction](#introduction)
+  - [Course Information](#course-information)
+  - [Table](#table)
+- [Technologies](#technologies)
+- [Project status](#project-status)
+- [Installation](#installation)
+  - [Get repository](#get-repository)
+- [License](#license)
 
 ## Introduction
+
 Design and development of 3-Bit Gray Code Counter with JK Flip Flop using Logisim.
 
 ### Course Information
+
 - Course Name: Computer Organisation and Architecture
 - Course Code: 15EM2001
 - Course Credits: 4
 - Academic Year: 2016 - 17
 
 ### Table
+
 | Decimal Number | Binary Code | Gray Code |
 | :------------: | :---------: | :-------: |
 |       0        |     000     |    000    |
@@ -33,17 +35,22 @@ Design and development of 3-Bit Gray Code Counter with JK Flip Flop using Logisi
 |       7        |     111     |    100    |
 
 ## Technologies
+
 - Logisim
 
 ## Project status
+
 > **Completed**
 
 ## Installation
+
 ### Get repository
+
 ```git
 git https://github.com/msaf9/3BitGrayCodeCounterUsingJkFlipFlop.git
 cd 3BitGrayCodeCounterUsingJkFlipFlop
 ```
 
 ## License
+
 [MIT License](LICENSE)
