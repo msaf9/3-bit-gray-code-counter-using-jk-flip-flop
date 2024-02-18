@@ -47,8 +47,8 @@ Design and development of 3-Bit Gray Code Counter with JK Flip Flop using Logisi
 ### Get repository
 
 ```git
-git https://github.com/msaf9/3BitGrayCodeCounterUsingJkFlipFlop.git
-cd 3BitGrayCodeCounterUsingJkFlipFlop
+git https://github.com/msaf9/3-bit-gray-code-counter-using-jk-flip-flop.git
+cd 3-bit-gray-code-counter-using-jk-flip-flop
 ```
 
 ## License
