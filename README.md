@@ -1,10 +1,12 @@
 <h1> 3-Bit Gray Code Counter Using JK Flip Flop </h1>        
 3-Bit Gray Code Counter with JK Flip Flop.
 
+<h2>Table of contents</h2>
+
 - [Introduction](#introduction)
   - [Course Information](#course-information)
   - [Table](#table)
-- [Technologies](#technologies)
+- [Tool](#tool)
 - [Project status](#project-status)
 - [Installation](#installation)
   - [Get repository](#get-repository)
@@ -34,7 +36,7 @@ Design and development of 3-Bit Gray Code Counter with JK Flip Flop using Logisi
 |       6        |     110     |    101    |
 |       7        |     111     |    100    |
 
-## Technologies
+## Tool
 
 - Logisim
 
